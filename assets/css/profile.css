@@ -1,0 +1,28 @@
+.container {
+    margin-top: 90px;
+}
+
+.img {
+    display: block;
+    width: 185px;
+    height: 185px;
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 10px;; 
+}
+
+.form-container {
+    max-width: 400px;
+    margin-left: 100px;
+}
+
+.anchor {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.mrgn {
+    margin-right: 10px;
+}
+

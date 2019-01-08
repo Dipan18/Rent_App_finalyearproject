@@ -1,0 +1,13 @@
+.card {
+    margin-bottom: 20px;
+}
+
+.link {
+    color: #2C3E50;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.link:hover {
+    text-decoration: none;
+}

@@ -1,0 +1,74 @@
+.container {
+    margin-top: 90px; 
+}
+
+.header {
+    height: 25px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #2C3E50;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #2C3E50;
+}
+
+.slider-image {
+    height: 350px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.preview {
+    /* border: 1px solid #2C3E50; */
+}
+
+.card {
+    border-radius: 0%;
+    /* border-color: #2C3E50; */
+}
+
+hr {
+    border-color: #2C3E50; 
+}
+
+.card-right {
+    height: 333px;
+}
+
+.margin-top {
+    margin-top: 40px;
+}
+
+.padding-bottom {
+    padding-bottom: 5px;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+h6 {
+    font-size: 17px;
+}
+
+.rent-item .btn {
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
